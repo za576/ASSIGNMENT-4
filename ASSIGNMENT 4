@@ -1,0 +1,21 @@
+<html>
+<body>
+<ol>
+<li>Fruits</li>
+<ol>
+<li>Mango</li>
+<li>Orange</li>
+</ol>
+<li>Vegetables</li>
+<ol>
+<li>Cabbage</li>
+<li>Capsicum</li>
+</ol>
+<ol>
+<li>Green Capsicum</li>
+<li>Yellow Capsicum</li>
+<li>Red Capsicum</li>
+</ol>
+</ol>
+</body>
+</html>
